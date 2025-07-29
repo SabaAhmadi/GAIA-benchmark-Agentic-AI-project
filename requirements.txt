@@ -1,0 +1,24 @@
+gradio
+requests
+langchain-community
+langgraph>=0.5.0
+langgraph-sdk>=0.1.60
+langgraph-checkpoint>=2.0.20
+langchain-core>=0.3.0
+langchain-openai >=0.3.0
+langchain-experimental>=0.3.0
+ipython>=8.0.0
+python-dotenv==1.1.0
+langchain-google-genai>=0.0.5
+google-generativeai>=0.3.2
+duckduckgo_search>=8.0.0
+wikipedia>=1.4.0
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+langchain-tavily>=0.2.0
+pydantic>=2.11.0
+pydantic-settings>=2.9.0
+pydantic_core>=2.33.0
+langchain-tavily>=0.2.0
+langchain-openai>=0.3.0
+whisper-openai>=1.0.0
