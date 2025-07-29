@@ -5,3 +5,9 @@ This repository contains the code for the final assignment of the Hugging Face c
 
 I am still improving this code; right now, it achieves a 40% accuracy on the level 1 test cases of the GAIA benchmark.
 
+
+
+# Hugging Face Certificate
+
+
+[certificate.pdf](https://github.com/user-attachments/files/21478513/certificate.pdf)
